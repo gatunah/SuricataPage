@@ -1,0 +1,32 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.bg-pink {
+    background-color: #E83E8C;
+    ;
+}
+
+.h-card-body {
+    height: 10rem;
+}
+
+.bg-info {
+    background-color: #17a2b8;
+}
+
+.sect-pay .txt-tit {
+    font-weight: 700;
+}
+.txt-sed {
+    font-weight: 400;
+}
+
+i {
+    filter: invert();
+}
+.gris-oscuro{
+    color: #373A3C;
+}
